@@ -1,5 +1,5 @@
 name: SQL-String
-version: 0.00_01
+version: 0.01
 abstract: An object representation of a chunk of SQL
 author: Adam Kennedy<cpan@ali.as>
 license: perl
