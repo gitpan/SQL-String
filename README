@@ -132,26 +132,31 @@ METHODS
 TO DO
     - Write a faster XS version?
 
+    - Change param handling to Params::Util
+
+    - Make use of bytes and potentially unicode
+
     - Test to see if if would be better to include the params in their own
     ARRAY reference.
 
 SUPPORT
     Bugs should be submitted via the CPAN bug tracker, located at
 
-    <http://rt.cpan.org/NoAuth/ReportBug.html?Queue=SQL%3A%3AString>
+    <http://rt.cpan.org/NoAuth/ReportBug.html?Queue=SQL-String>
 
     For other issues, contact the author
 
 AUTHOR
-    Adam Kennedy (Maintainer), <http://ali.as/>, cpan@ali.as
+    Adam Kennedy <adamk@cpan.org>
 
     Thank you to Phase N Australia (<http://phase-n.com/>) for permitting
     the open sourcing and release of this distribution.
 
 COPYRIGHT
-    Copyright (c) 2004 Adam Kennedy. All rights reserved. This program is
-    free software; you can redistribute it and/or modify it under the same
-    terms as Perl itself.
+    Copyright 2004 - 2008 Adam Kennedy.
+
+    This program is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
 
     The full text of the license can be found in the LICENSE file included
     with this module.
